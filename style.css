@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    position: relative !important;
+    
+}
+
+
+ .navbar{
+    background-color: #e7a44d !important;
+    
+}
+
+ .nav-link{
+    color: #f5e4d2 !important;
+    padding: 10px !important;
+
+ }
+     
+
+
+.nav-link:hover{
+    color: rgb(230, 181, 58) !important;
+    background-color: #7c4b37 !important;
+    border-radius: 40px;
+    
+   
+}
+.carousel-inner img {
+    width: 100%;
+    width: 100%;
+    
+  }
+.card{
+    margin-top: 18px;
+}
+.back{
+    background-image: url('images/menu.jpg');
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    padding-bottom: 10px;
+   
+}
+hr{
+    width: 40%;
+    height: 10px;
+}
+#paragraph{
+    margin-top: 30px;
+}
+iframe{
+    width: 200px;
+    height: 200px;
+}
+#image{
+    background-image: url('images/menu.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
